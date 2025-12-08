@@ -12,6 +12,7 @@ It can be used for food trend analysis, consumer behavior insights, segmentation
 | Attribute | Description |
 |----------|-------------|
 | **Email ID** | Respondent’s email address |
+| **Name** |
 | **Age** | Age of the respondent |
 | **Gender** | Male / Female / Other |
 | **City** | City or location of the respondent |
